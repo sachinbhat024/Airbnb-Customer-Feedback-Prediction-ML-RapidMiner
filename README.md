@@ -7,7 +7,7 @@ images, descriptions about property, neighbourhood, people it can accommodate et
 taking commissions on the successful bookings that customers are able to make. It operates as an easy-to-use digital 
 platform that links tourists with private property hosts.  
 
-Executive Problem Statement: 
+Problem Statement: 
 
 We are currently looking at Sydney (Australia) based listings. The company has provided us with 2 datasets that include 
 approximately 37,000 rental listings and 5,49,000 associated customer reviews. Every day there are new hosts 
@@ -16,7 +16,7 @@ us with a request to develop an advanced and effective method which would enable
 customer feedback about their stays particularly at their Sydney rental properties. It is extremely hard for the firm to 
 assess each customer review and plan course of action on its basis.  
 
-Executive Solution Statement: 
+Solution Statement: 
 
 We are provided with negative and positive words which the hosts may use in their property descriptions, or the 
 customers may use in their stay’s reviews. Based on those words, we have devised a method to make use of hosts’ 
