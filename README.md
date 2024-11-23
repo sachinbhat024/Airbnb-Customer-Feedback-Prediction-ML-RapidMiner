@@ -1,4 +1,4 @@
-# A2-RapidMiner-rename
+# Airbnb Sydney Insights: Predicting Customer Feedback & Optimising Property Listings 🏡🔍
 
 AirBnb is world leader in providing accommodations to people (customers) around the globe who want to rent the spaces 
 for several purposes such as vacations, work, travel etc. The firm also caters to people (property hosts) by helping them 
